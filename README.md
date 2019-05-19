@@ -24,9 +24,9 @@ Questions Tackled:
 
 5. What factors helped someone survive the sinking?
 
-![FactorsOfSurvivalWithoutChildren](/Images/FactorsOfSurvival.png)
+![FactorsOfSurvivalWithoutChildren](/Images/FactorsForSurvival.png)
 
-![FactorsForSurvivalWithChildren](/Images/FactorsForSurvival.png)
+![FactorsForSurvivalWithChildren](/Images/FactorsOfSurvivalWithChildren.png)
 
 
 6. Did deck mattered in Survival?
