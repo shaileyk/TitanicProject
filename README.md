@@ -3,6 +3,7 @@
 KaggleCompetition(Titanic Challenge)
 Questions Tackled: 
 1. Who were the passengers on the titanic?
+
 ![PassengersOnTitanic](/Images/PeopleOnTitanic.png)
 2. What deck were the passengers on and and how does that relate to their class?
 3. Where did the passengers come from?
