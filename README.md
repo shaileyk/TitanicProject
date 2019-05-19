@@ -9,33 +9,33 @@ Questions Tackled:
 
 2. What deck were the passengers on and and how does that relate to their class?
 
-![PassengersOnTitanic](/Images/2Deck.png)
+![DeckInformation](/Images/2Deck.png)
 
 
 3. Where did the passengers come from?
 
-![PassengersOnTitanic](/Images/Embarked.png)
+![StatesThatPassengersCameFrom](/Images/Embarked.png)
 
 
-4. Who was alone and who was with family?
+4. How many were Alone and how many were People?
 
-![PassengersOnTitanic](/Images/AloneOrNot.png)
+![How Many were alone](/Images/AloneOrNot.png)
 
 
 5. What factors helped someone survive the sinking?
 
-![PassengersOnTitanic](/Images/FactorsOfSurvivalWithoutChildren.png)
+![FactorsOfSurvivalWithoutChildren](/Images/FactorsOfSurvival.png)
 
-![PassengersOnTitanic](/Images/FactorsForSurvival.png)
+![FactorsForSurvivalWithChildren](/Images/FactorsForSurvival.png)
 
 
 6. Did deck mattered in Survival?
 
-![PassengersOnTitanic](/Images/DeckNumbers.png)
+![HowMuchDidDeckMattered](/Images/DeckNumbers.png)
 
 
 7. Did having a family helped in survival?
 
-![PassengersOnTitanic](/Images/aloneSurvivalRate.png)
+![WasSurvivalWithFamilyHelpedInSurvival](/Images/aloneSurvivalRate.png)
 
 
